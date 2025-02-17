@@ -20,7 +20,7 @@ npm -v
 ```
 ## Clone the repository to your local machine using git:
  ```bash
- git clone https://github.com/your-username/quiz-app.git
+ git clone https://github.com/MauryaShubhamkumar/AIS-Project-Quiz.git
   ```
 
 ## Navigate to the project directory
